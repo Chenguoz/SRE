@@ -5,6 +5,9 @@ This repository is the official implementation of **Exploring Sample Relationshi
          
 > Xingye Chen, Wenxiao Wu, Li Ma, Xinge You, Changxin Gao,Nong Sang, Yuanjie Shao      
 
+<div align="center">
+<img src="./Figures/overview.png" width="70%" height="70%"><br><br>
+</div>
 
 ## Application to ProtoNet
 
